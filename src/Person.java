@@ -17,6 +17,7 @@ public class Person {
     }
 
     void setAge(int newAge) {
+        // check if negative etc..
         this.age = newAge;
     }
 
